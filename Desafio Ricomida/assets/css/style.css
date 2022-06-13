@@ -1,0 +1,80 @@
+.imgs {
+    width: 90%;
+    
+}
+.i-slider1 {
+    width: 25%;
+}
+.brand{
+    font-size: 2rem;
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+}
+.nbvtext{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+}
+.c-align {
+    text-align: left;
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+}
+#dbbutton{
+    border-radius: 100%;
+    background-color: black;
+    height: 20px;
+    width: 20px;
+}
+
+.text2{
+    color: #373A3C;
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    
+}
+.subt{
+    width: 32%;
+    border-radius: 100;
+}
+#textreceta{
+
+    text-align: center;
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    font-size: 4rem;    
+}
+.titlerect{
+
+    text-align: left;
+    font-family: 'Cabin', sans-serif;
+    font-weight: 700;
+    font-size: 5rem;
+}
+
+.nleter{    
+    background-color: #DC3545;
+    color: white;
+    border-color: white;
+    font-family: 'Cabin', sans-serif;   
+    text-align: center;
+
+}
+.textleter1{
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+}
+.textleter2{
+    font-family: 'Cabin', sans-serif;
+    font-size: 1,5rem;
+}
+.textleter3{
+    font-family: 'Lobster', cursive;
+    font-size: 1rem;
+}
+.hrcolor{
+    background-color: #DC3545 ;
+}
+.bt1{
+    border-color: white;
+}
